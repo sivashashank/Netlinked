@@ -316,7 +316,7 @@ $(".date").datepicker();
               </select><br />
 			</div>
 		</div>
-		<div class="textleft">Birth Day:</div>
+		<div class="textleft">BirthDay:</div>
 		<div class="textright"><input name="month" type="text" class="date"></div>
 		<div class="input-container">
 	
